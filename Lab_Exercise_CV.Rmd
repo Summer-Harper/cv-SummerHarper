@@ -1,6 +1,6 @@
 ---
 title: "Summer Harper"
-output: html_document
+output: github_document
 ---
 
 ```{r setup, include=FALSE}
@@ -12,21 +12,29 @@ cell phone: (123)456-7890
 <br> 
 email address: slh293@cornell.edu 
 
+---
+
 
 ## Education
 **Bachelors of Chaos, Cornell University, CALS**
 
+*Expected Graduation: May 2023*
+
 Magician major, with a concentration in Magical Forests
 
 GPA: 1,000,000.00
+
+---
 
 ## Research Experience
 
 **Cornell University Department of Un-Natural Resources -- Research Assistant ** 
 
 * Assisted with a long-term project seeking to understand the threat of drought to Magical Forests across the globe. 
-* Collaborated with aliens to develop solutions across all worlds. 
+* Collaborated with aliens to develop solutions across all universes. 
+* Collected high quality demography data of monoculture magical tree forests. 
 
+---
 
 ## Work Experience
 
@@ -44,6 +52,7 @@ GPA: 1,000,000.00
 * Assisted in safe migration of mobile woody plants across built environments. 
 * Established partnerships between mobile crops and farmers, in order to ensure farmer livelihoods as well as crop standard of living. 
 
+---
 
 ## Awards
 
