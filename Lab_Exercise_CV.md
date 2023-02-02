@@ -22,7 +22,7 @@ GPA: 1,000,000.00
 ## Research Experience
 
 **Cornell University Department of Un-Natural Resources – Research
-Assistant **
+Assistant**
 
 - Assisted with a long-term project seeking to understand the threat of
   drought to Magical Forests across the globe.
@@ -57,4 +57,11 @@ Assistant **
 - I hold the school record for number of “good behavior” stickers earned
   in 3rd grade.
 
-![](https://raisingchildren.net.au/__data/assets/image/0029/47846/reward-charts.jpg)
+<img src="https://raisingchildren.net.au/__data/assets/image/0029/47846/reward-charts.jpg" width="50%" style="display: block; margin: auto;" />
+
+<br>
+
+- 2023 Tallest Tree Climbed Award: This honor is awarded to the student
+  who successfully climbs the tallest tree on campus.
+
+<img src="https://www.shutterstock.com/shutterstock/photos/1162989610/display_1500/stock-vector-beautiful-girl-climbing-up-with-rope-the-tree-1162989610.jpg" width="50%" style="display: block; margin: auto;" />
