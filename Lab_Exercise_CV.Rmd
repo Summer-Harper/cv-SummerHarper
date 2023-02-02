@@ -8,7 +8,7 @@ knitr::opts_chunk$set(echo = TRUE)
 ```
 
 ##### Contact Information: 
-cell phone: (123)456-7890
+cell phone: (pl-3)(123)456-7890
 <br> 
 email address: slh293@cornell.edu 
 
@@ -22,7 +22,7 @@ email address: slh293@cornell.edu
 
 Magician major, with a concentration in Magical Forests
 
-GPA: 1,000,000.00
+GPA: 5,000,000.00
 
 ---
 
@@ -40,14 +40,14 @@ GPA: 1,000,000.00
 
 **Willy Wonka Chocolate Factory Inc.**
 
-**2027**
+**2027-2028**
 
 * Provided feedback and suggestions regarding new products
 * Assisted in maintaining a positve work environment
 
 **United States Forest Service - Department of Mobile Plants** 
 
-**2031**
+**2031-2040**
 
 * Assisted in safe migration of mobile woody plants across built environments. 
 * Established partnerships between mobile crops and farmers, in order to ensure farmer livelihoods as well as crop standard of living. 

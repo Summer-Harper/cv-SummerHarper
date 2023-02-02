@@ -3,7 +3,7 @@ Summer Harper
 
 ##### Contact Information:
 
-cell phone: (123)456-7890 <br> email address: <slh293@cornell.edu>
+cell phone: (pl-3)(123)456-7890 <br> email address: <slh293@cornell.edu>
 
 ------------------------------------------------------------------------
 
@@ -15,7 +15,7 @@ cell phone: (123)456-7890 <br> email address: <slh293@cornell.edu>
 
 Magician major, with a concentration in Magical Forests
 
-GPA: 1,000,000.00
+GPA: 5,000,000.00
 
 ------------------------------------------------------------------------
 
@@ -36,14 +36,14 @@ Assistant**
 
 **Willy Wonka Chocolate Factory Inc.**
 
-**2027**
+**2027-2028**
 
 - Provided feedback and suggestions regarding new products
 - Assisted in maintaining a positve work environment
 
 **United States Forest Service - Department of Mobile Plants**
 
-**2031**
+**2031-2040**
 
 - Assisted in safe migration of mobile woody plants across built
   environments.
